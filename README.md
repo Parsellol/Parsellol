@@ -1,6 +1,5 @@
-yooooooooo
-the names parsel
+hey there this is parsel (me) editing this again because im bored!!! :)
 
-i wanna get into minecraft modding
-but my main focus atm is FNF, specifically Psych Engine
-so ya, das it ig
+i mainly script in lua but i can do a bit of haxe (i think)
+
+hoping to get into java soon :)
